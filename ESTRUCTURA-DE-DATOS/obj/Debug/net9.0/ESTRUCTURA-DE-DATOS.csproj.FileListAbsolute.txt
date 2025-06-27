@@ -1,0 +1,15 @@
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\bin\Debug\net9.0\ESTRUCTURA-DE-DATOS.exe
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\bin\Debug\net9.0\ESTRUCTURA-DE-DATOS.deps.json
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\bin\Debug\net9.0\ESTRUCTURA-DE-DATOS.runtimeconfig.json
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\bin\Debug\net9.0\ESTRUCTURA-DE-DATOS.dll
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\bin\Debug\net9.0\ESTRUCTURA-DE-DATOS.pdb
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\ESTRUCTURA-DE-DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\ESTRUCTURA-DE-DATOS.AssemblyInfoInputs.cache
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\ESTRUCTURA-DE-DATOS.AssemblyInfo.cs
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\ESTRUCTURA-DE-DATOS.csproj.CoreCompileInputs.cache
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\ESTRUCTURA-DE-DATOS.sourcelink.json
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\ESTRUCTURA-DE-DATOS.dll
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\refint\ESTRUCTURA-DE-DATOS.dll
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\ESTRUCTURA-DE-DATOS.pdb
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\ESTRUCTURA-DE-DATOS.genruntimeconfig.cache
+C:\Users\TERQ\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURAS DE DATOS\Estructura-de-Datos\ESTRUCTURA-DE-DATOS\obj\Debug\net9.0\ref\ESTRUCTURA-DE-DATOS.dll
